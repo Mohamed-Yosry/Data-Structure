@@ -1,2 +1,2 @@
 # Data-Structure
-Conatine different data strucutres 
+Containe different data strucutres 
