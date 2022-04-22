@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1589207433 source:e:\projects\bt\main.cpp
+	<iostream>
+	<vector>
+
